@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Ziheng Zeng — Applied AI, Data, Product</title>
+<desc id="desc">A navy banner with mint accents for Ziheng, also known as Henry, a USC student.</desc>
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101c32"/><stop offset="1" stop-color="#172d40"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#8dcfc1" stroke-opacity=".055"/></pattern></defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/><rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+<rect x="56" y="48" width="42" height="5" rx="2.5" fill="#8ce2c2"/>
+<text x="56" y="87" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3" fill="#a9c5d1">USC · LOS ANGELES</text>
+<text x="54" y="160" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2" fill="#f3f6fa">Ziheng Zeng</text>
+<text x="58" y="191" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#a9c5d1">also known as Henry</text>
+<text x="56" y="250" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="1" fill="#8ce2c2">APPLIED AI / DATA / PRODUCT</text>
+<g transform="translate(945 148)" fill="none" stroke="#8ce2c2"><circle r="75" stroke-opacity=".15"/><circle r="108" stroke-opacity=".09"/><path d="M -60 38 L -24 3 L 8 22 L 56 -40" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="-60" cy="38" r="5" fill="#172d40" stroke-width="2"/><circle cx="-24" cy="3" r="5" fill="#172d40" stroke-width="2"/><circle cx="8" cy="22" r="5" fill="#172d40" stroke-width="2"/><circle cx="56" cy="-40" r="6" fill="#8ce2c2" stroke="none"/></g>
+</svg>
